@@ -1,0 +1,23 @@
+{
+  "name": "blank-single-page-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git"
+  },
+  "author": "zeit.io",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "",
+    "grunt-cli": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-copy": "",
+    "grunt-contrib-sass": "",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-watch": "",
+    "grunt-slim": "",
+    "http-server": ""
+  }
+}

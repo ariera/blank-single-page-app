@@ -1,0 +1,10 @@
+{
+  "name": "blank-single-page-app",
+  "dependencies": {
+    "jquery": null,
+    "bootstrap-sass-official": "~3.2.0",
+    "components-font-awesome": "",
+    "underscore": "",
+    "r.js": ""
+  }
+}
